@@ -1,6 +1,3 @@
-
-
-
 class Atm:
 
     def __init__(self):
